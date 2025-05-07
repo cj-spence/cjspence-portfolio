@@ -4,7 +4,7 @@ export const Projects = () => {
 
     return (
 
-        <section id="projects" className="flex items-center justify-center py-20 bg-[#2b2d42]">
+        <section id="projects" className="flex items-center justify-center py-20 bg-[#2b2d42] overflow-hidden">
             
             <RevealOnScroll>
 

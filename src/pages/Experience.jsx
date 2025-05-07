@@ -2,7 +2,7 @@ import { RevealOnScroll } from "../components/RevealOnScroll";
 
 export const Experience = () => {
     return (
-        <section id="experience" className="flex items-center justify-center py-20 bg-[#2b2d42]">
+        <section id="experience" className="flex items-center justify-center py-20 bg-[#2b2d42] overflow-hidden">
             
             <RevealOnScroll>
 
